@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @heikneus
-- 👀 I’m interested in developing applications and data analysis visuals for petroleum engineering
+- 👀 Interested in developing data analysis/integration tools for petroleum engineers and other subsurface disciplines
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything related to the topics above
 - 📫 How to reach me via GitHub account
